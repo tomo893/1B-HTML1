@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ja"
+    <head>
+        <meta char set="UTF-8">
+        <title>おすすめの楽曲ランキング</title>
+    </head>
+
+    <body>
+        <h2>第1位</h2>
+        <audio><iframe width="560" height="315" src="https://www.youtube.com/embed/Xr7TuDHjZMo?si=e6vJL364d5cq1lYf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></audio>
+        <h2>第2位</h2>
+        <audio> src="./<iframe width="560" height="315" src="https://www.youtube.com/embed/8TNusrMIdIQ?si=-WGkD6O2NWvwPB5p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> controls <audio>
